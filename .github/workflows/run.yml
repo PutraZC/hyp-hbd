@@ -1,0 +1,29 @@
+name: hyp-hbd
+
+on:
+  schedule:
+    - cron: "0 17 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout data repo
+        uses: actions/checkout@v3
+
+      - name: Setup Python 3.11
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Save settings.json
+        run: echo "{ \"name\":\"${{ secrets.NAME }}\", \"webhook\":\"${{ secrets.WEBHOOK }}\" }" > settings.json
+
+      - name: Execute main script
+        run: python3 main.py
