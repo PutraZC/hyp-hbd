@@ -82,5 +82,461 @@
         "name": "Gaming",
         "birthday": "12/22",
         "costume": ""
+    },
+    {
+        "fullName": "",
+        "name": "Razor",
+        "birthday": "09/09",
+        "costume": ""
+    },
+    {
+        "fullName": "",
+        "name": "Amber",
+        "birthday": "08/10",
+        "costume": "AmborCostumeWic"
+    },
+    {
+        "fullName": "",
+        "name": "Venti",
+        "birthday": "06/16",
+        "costume": ""
+    },
+    {
+        "fullName": "",
+        "name": "Xiangling",
+        "birthday": "11/02",
+        "costume": ""
+    },
+    {
+        "fullName": "",
+        "name": "Beidou",
+        "birthday": "02/14",
+        "costume": ""
+    },
+    {
+        "fullName": "",
+        "name": "Xinqiu",
+        "birthday": "10/09",
+        "costume": "XingqiuCostumeBamboo"
+    },
+    {
+        "fullName": "",
+        "name": "Xiao",
+        "birthday": "04/17",
+        "costume": ""
+    },
+    {
+        "fullName": "",
+        "name": "Ningguang",
+        "birthday": "08/26",
+        "costume": "NingguangCostumeFloral"
+    },
+    {
+        "fullName": "",
+        "name": "Klee",
+        "birthday": "07/27",
+        "costume": "KleeCostumeWitch"
+    },
+    {
+        "fullName": "",
+        "name": "Zhongli",
+        "birthday": "12/31",
+        "costume": ""
+    },
+    {
+        "fullName": "",
+        "name": "Fischl",
+        "birthday": "05/27",
+        "costume": "FischlCostumeHighness"
+    },
+    {
+        "fullName": "",
+        "name": "Bennett",
+        "birthday": "02/29",
+        "costume": ""
+    },
+    {
+        "fullName": "",
+        "name": "Tartaglia",
+        "birthday": "07/20",
+        "costume": ""
+    },
+    {
+        "fullName": "Noelle",
+        "name": "Noel",
+        "birthday": "03/21",
+        "costume": ""
+    },
+    {
+        "fullName": "",
+        "name": "Qiqi",
+        "birthday": "03/03",
+        "costume": ""
+    },
+    {
+        "fullName": "",
+        "name": "Chongyun",
+        "birthday": "09/07",
+        "costume": ""
+    },
+    {
+        "fullName": "",
+        "name": "Albedo",
+        "birthday": "09/13",
+        "costume": ""
+    },
+    {
+        "fullName": "",
+        "name": "Diona",
+        "birthday": "01/18",
+        "costume": ""
+    },
+    {
+        "fullName": "",
+        "name": "Mona",
+        "birthday": "08/31",
+        "costume": "MonaCostumeWic"
+    },
+    {
+        "fullName": "",
+        "name": "Keqing",
+        "birthday": "11/20",
+        "costume": "KeqingCostumeFeather"
+    },
+    {
+        "fullName": "",
+        "name": "Xinyan",
+        "birthday": "10/16",
+        "costume": ""
+    },
+    {
+        "fullName": "",
+        "name": "Rosaria",
+        "birthday": "01/24",
+        "costume": "RosariaCostumeWic"
+    },
+    {
+        "fullName": "",
+        "name": "Hutao",
+        "birthday": "07/15",
+        "costume": ""
+    },
+    {
+        "fullName": "Kaedara Kazuha",
+        "name": "Kazuha",
+        "birthday": "10/29",
+        "costume": ""
+    },
+    {
+        "fullName": "Yanfei",
+        "name": "Feiyan",
+        "birthday": "07/28",
+        "costume": ""
+    },
+    {
+        "fullName": "",
+        "name": "Yoimiya",
+        "birthday": "06/21",
+        "costume": ""
+    },
+    {
+        "fullName": "Thoma",
+        "name": "Tohma",
+        "birthday": "01/19",
+        "costume": ""
+    },
+    {
+        "fullName": "",
+        "name": "Eula",
+        "birthday": "10/25",
+        "costume": ""
+    },
+    {
+        "fullName": "Raiden Shogun",
+        "name": "Shougun",
+        "birthday": "06/26",
+        "costume": ""
+    },
+    {
+        "fullName": "",
+        "name": "Sayu",
+        "birthday": "10/19",
+        "costume": ""
+    },
+    {
+        "fullName": "Sangonomiya Kokomi",
+        "name": "Kokomi",
+        "birthday": "02/22",
+        "costume": ""
+    },
+    {
+        "fullName": "",
+        "name": "Gorou",
+        "birthday": "05/18",
+        "costume": ""
+    },
+    {
+        "fullName": "Kujou Sara",
+        "name": "Sara",
+        "birthday": "07/14",
+        "costume": ""
+    },
+    {
+        "fullName": "Arataki Itto",
+        "name": "Itto",
+        "birthday": "06/01",
+        "costume": ""
+    },
+    {
+        "fullName": "Yae Miko",
+        "name": "Yae",
+        "birthday": "06/27",
+        "costume": ""
+    },
+    {
+        "fullName": "Shikanoin Heizou",
+        "name": "Heizo",
+        "birthday": "07/24",
+        "costume": ""
+    },
+    {
+        "fullName": "",
+        "name": "Yelan",
+        "birthday": "04/20",
+        "costume": ""
+    },
+    {
+        "fullName": "",
+        "name": "Kirara",
+        "birthday": "01/22",
+        "costume": "MomokaCostumeErrantry"
+    },
+    {
+        "fullName": "",
+        "name": "Aloy",
+        "birthday": "04/04",
+        "costume": ""
+    },
+    {
+        "fullName": "",
+        "name": "Shenhe",
+        "birthday": "03/10",
+        "costume": "ShenheCostumeDai"
+    },
+    {
+        "fullName": "",
+        "name": "Yunjin",
+        "birthday": "05/21",
+        "costume": ""
+    },
+    {
+        "fullName": "Kuki Shinobu",
+        "name": "Shinobu",
+        "birthday": "07/27",
+        "costume": ""
+    },
+    {
+        "fullName": "Kamisato Ayato",
+        "name": "Ayato",
+        "birthday": "03/26",
+        "costume": ""
+    },
+    {
+        "fullName": "",
+        "name": "Collei",
+        "birthday": "05/08",
+        "costume": ""
+    },
+    {
+        "fullName": "",
+        "name": "Tighnari",
+        "birthday": "12/29",
+        "costume": ""
+    },
+    {
+        "fullName": "",
+        "name": "Cyno",
+        "birthday": "06/23",
+        "costume": ""
+    },
+    {
+        "fullName": "",
+        "name": "Candace",
+        "birthday": "05/03",
+        "costume": ""
+    },
+    {
+        "fullName": "",
+        "name": "Nahida",
+        "birthday": "10/27",
+        "costume": ""
+    },
+    {
+        "fullName": "",
+        "name": "Wanderer",
+        "birthday": "01/03",
+        "costume": ""
+    },
+    {
+        "fullName": "",
+        "name": "Faruzan",
+        "birthday": "08/20",
+        "costume": ""
+    },
+    {
+        "fullName": "",
+        "name": "Yaoyao",
+        "birthday": "03/06",
+        "costume": ""
+    },
+    {
+        "fullName": "Alhaitham",
+        "name": "Alhatham",
+        "birthday": "02/11",
+        "costume": ""
+    },
+    {
+        "fullName": "",
+        "name": "Dehya",
+        "birthday": "04/07",
+        "costume": ""
+    },
+    {
+        "fullName": "",
+        "name": "Mika",
+        "birthday": "08/11",
+        "costume": ""
+    },
+    {
+        "fullName": "",
+        "name": "Kaveh",
+        "birthday": "07/09",
+        "costume": ""
+    },
+    {
+        "fullName": "Baizu",
+        "name": "Baizhuer",
+        "birthday": "04/25",
+        "costume": ""
+    },
+    {
+        "fullName": "Lynette",
+        "name": "Linette",
+        "birthday": "02/02",
+        "costume": ""
+    },
+    {
+        "fullName": "Lyney",
+        "name": "Liney",
+        "birthday": "02/02",
+        "costume": ""
+    },
+    {
+        "fullName": "",
+        "name": "Freminet",
+        "birthday": "09/24",
+        "costume": ""
+    },
+    {
+        "fullName": "",
+        "name": "Wriothesley",
+        "birthday": "11/23",
+        "costume": ""
+    },
+    {
+        "fullName": "",
+        "name": "Charlotte",
+        "birthday": "04/10",
+        "costume": ""
+    },
+    {
+        "fullName": "",
+        "name": "Furina",
+        "birthday": "10/13",
+        "costume": ""
+    },
+    {
+        "fullName": "",
+        "name": "Chevreuse",
+        "birthday": "01/10",
+        "costume": ""
+    },
+    {
+        "fullName": "",
+        "name": "Navia",
+        "birthday": "08/16",
+        "costume": ""
+    },
+    {
+        "fullName": "Xianyun",
+        "name": "Liuyun",
+        "birthday": "04/11",
+        "costume": ""
+    },
+    {
+        "fullName": "",
+        "name": "Chiori",
+        "birthday": "08/17",
+        "costume": ""
+    },
+    {
+        "fullName": "",
+        "name": "Sigewinne",
+        "birthday": "03/30",
+        "costume": ""
+    },
+    {
+        "fullName": "",
+        "name": "Arlecchino",
+        "birthday": "08/22",
+        "costume": ""
+    },
+    {
+        "fullName": "",
+        "name": "Sethos",
+        "birthday": "05/31",
+        "costume": ""
+    },
+    {
+        "fullName": "",
+        "name": "Clorinde",
+        "birthday": "09/20",
+        "costume": ""
+    },
+    {
+        "fullName": "",
+        "name": "Emilie",
+        "birthday": "09/22",
+        "costume": ""
+    },
+    {
+        "fullName": "",
+        "name": "Kachina",
+        "birthday": "04/22",
+        "costume": ""
+    },
+    {
+        "fullName": "",
+        "name": "Kinich",
+        "birthday": "11/11",
+        "costume": ""
+    },
+    {
+        "fullName": "",
+        "name": "Mualani",
+        "birthday": "08/03",
+        "costume": ""
+    },
+    {
+        "fullName": "",
+        "name": "Xilonen",
+        "birthday": "03/13",
+        "costume": ""
+    },
+    {
+        "fullName": "Ororon",
+        "name": "Olorun",
+        "birthday": "10/14",
+        "costume": ""
     }
 ]
