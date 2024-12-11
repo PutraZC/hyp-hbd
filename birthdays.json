@@ -538,5 +538,23 @@
         "name": "Olorun",
         "birthday": "10/14",
         "costume": ""
+    },
+    {
+        "fullName": "",
+        "name": "Mavuika",
+        "birthday": "08/28",
+        "costume": ""
+    },
+    {
+        "fullName": "",
+        "name": "Citlali",
+        "birthday": "01/20",
+        "costume": ""
+    },
+    {
+        "fullName": "",
+        "name": "Lanyan",
+        "birthday": "01/06",
+        "costume": ""
     }
 ]
