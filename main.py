@@ -27,6 +27,8 @@ def main(m):
 
             print(f"Today: {today}, Checking: {character['birthday']}")
 
+            # Get Next upcoming character birthday
+            nextBirthday = birthdays[birthdays.index(character) + 1]
             characterName = full_name if full_name else name
             embed = {
                 "username": f'{m["name"]}-{random.randint(10, 90)}',
@@ -37,7 +39,7 @@ def main(m):
                         "image": {"url": image_url},
                         "color": 0x38f4af,
                         "timestamp": datetime.datetime.utcnow().isoformat(),
-                        "footer": {"text": f"Simple Character Birthday Notifier by @putrazc"}  
+                        "footer": {"text": f"Upcoming Character: {nextBirthday['fullName']}"}, 
                     }
                 ]
             }
