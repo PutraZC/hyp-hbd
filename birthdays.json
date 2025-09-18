@@ -105,7 +105,7 @@
         "fullName": "",
         "name": "Xiangling",
         "birthday": "11/02",
-        "costume": ""
+        "costume": "XianglingCostumeWinter"
     },
     {
         "fullName": "",
@@ -153,7 +153,7 @@
         "fullName": "",
         "name": "Bennett",
         "birthday": "02/29",
-        "costume": ""
+        "costume": "BennettCostumeSummer"
     },
     {
         "fullName": "",
@@ -216,10 +216,10 @@
         "costume": "RosariaCostumeWic"
     },
     {
-        "fullName": "",
+        "fullName": "Hu Tao",
         "name": "Hutao",
         "birthday": "07/15",
-        "costume": ""
+        "costume": "HutaoCostumeWinter"
     },
     {
         "fullName": "Kaedara Kazuha",
@@ -303,7 +303,7 @@
         "fullName": "",
         "name": "Yelan",
         "birthday": "04/20",
-        "costume": ""
+        "costume": "YelanCostumeSummer"
     },
     {
         "fullName": "",
@@ -552,7 +552,7 @@
         "costume": ""
     },
     {
-        "fullName": "",
+        "fullName": "Lan Yan",
         "name": "Lanyan",
         "birthday": "01/06",
         "costume": ""
@@ -625,20 +625,8 @@
     },
     {
         "fullName": "",
-        "name": "Manekin",
-        "birthday": null,
-        "costume": ""
-    },
-    {
-        "fullName": "",
-        "name": "Manekina",
-        "birthday": null,
-        "costume": ""
-    },
-    {
-        "fullName": "",
         "name": "Nefer",
-        "birthday": null,
+        "birthday": "05/09",
         "costume": ""
     }
 ]
