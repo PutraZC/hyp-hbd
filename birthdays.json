@@ -574,5 +574,71 @@
         "name": "Iansan",
         "birthday": "08/08",
         "costume": ""
+    },
+    {
+        "fullName": "",
+        "name": "Escoffier",
+        "birthday": "06/08",
+        "costume": ""
+    },
+    {
+        "fullName": "",
+        "name": "Ifa",
+        "birthday": "03/23",
+        "costume": ""
+    },
+    {
+        "fullName": "",
+        "name": "Skirk",
+        "birthday": "11/05",
+        "costume": ""
+    },
+    {
+        "fullName": "",
+        "name": "Dahlia",
+        "birthday": "05/25",
+        "costume": ""
+    },
+    {
+        "fullName": "",
+        "name": "Ineffa",
+        "birthday": "04/02",
+        "costume": ""
+    },
+    {
+        "fullName": "",
+        "name": "Lauma",
+        "birthday": "03/01",
+        "costume": ""
+    },
+    {
+        "fullName": "",
+        "name": "Flins",
+        "birthday": "10/31",
+        "costume": ""
+    },
+    {
+        "fullName": "",
+        "name": "Aino",
+        "birthday": "09/21",
+        "costume": ""
+    },
+    {
+        "fullName": "",
+        "name": "Manekin",
+        "birthday": null,
+        "costume": ""
+    },
+    {
+        "fullName": "",
+        "name": "Manekina",
+        "birthday": null,
+        "costume": ""
+    },
+    {
+        "fullName": "",
+        "name": "Nefer",
+        "birthday": null,
+        "costume": ""
     }
 ]
