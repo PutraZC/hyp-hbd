@@ -625,8 +625,32 @@
     },
     {
         "fullName": "",
+        "name": "Manekin",
+        "birthday": "",
+        "costume": ""
+    },
+    {
+        "fullName": "",
+        "name": "Manekina",
+        "birthday": "",
+        "costume": ""
+    },
+    {
+        "fullName": "",
         "name": "Nefer",
         "birthday": "05/09",
+        "costume": ""
+    },
+    {
+        "fullName": "",
+        "name": "Durin",
+        "birthday": "01/01",
+        "costume": ""
+    },
+    {
+        "fullName": "",
+        "name": "Jahoda",
+        "birthday": "01/05",
         "costume": ""
     }
 ]
