@@ -588,8 +588,8 @@
         "costume": ""
     },
     {
-        "fullName": "",
-        "name": "Skirk",
+        "fullName": "Skirk",
+        "name": "SkirkNew",
         "birthday": "11/05",
         "costume": ""
     },
@@ -621,18 +621,6 @@
         "fullName": "",
         "name": "Aino",
         "birthday": "09/21",
-        "costume": ""
-    },
-    {
-        "fullName": "",
-        "name": "Manekin",
-        "birthday": "",
-        "costume": ""
-    },
-    {
-        "fullName": "",
-        "name": "Manekina",
-        "birthday": "",
         "costume": ""
     },
     {
