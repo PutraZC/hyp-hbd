@@ -72,7 +72,7 @@ def main(m):
                         "title": f"🎉 Happy Birthday, {characterName}! 🎂",
                         "image": {"url": image_url},
                         "color": 0x38f4af,
-                        "timestamp": datetime.datetime.utcnow().isoformat(),
+                        "timestamp": datetime.datetime.now(datetime.timezone.utc).isoformat(),
                         "footer": {"text": footer_text}  
                     }
                 ]
