@@ -630,15 +630,45 @@
         "costume": ""
     },
     {
-        "fullName": "",
-        "name": "Durin",
+        "fullName": "Manekina",
+        "name": "MannequinGirl",
+        "birthday": "01/01",
+        "costume": ""
+    },
+    {
+        "fullName": "Manekin",
+        "name": "MannequinBoy",
         "birthday": "01/01",
         "costume": ""
     },
     {
         "fullName": "",
+        "name": "Durin",
+        "birthday": "03/14",
+        "costume": "DurinCostumeWic"
+    },
+    {
+        "fullName": "",
         "name": "Jahoda",
         "birthday": "01/05",
+        "costume": ""
+    },
+    {
+        "fullName": "",
+        "name": "Columbina",
+        "birthday": "01/01",
+        "costume": ""
+    },
+    {
+        "fullName": "",
+        "name": "Zibai",
+        "birthday": "01/01",
+        "costume": ""
+    },
+    {
+        "fullName": "",
+        "name": "Illuga",
+        "birthday": "01/01",
         "costume": ""
     }
 ]
