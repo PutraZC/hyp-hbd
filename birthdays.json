@@ -630,18 +630,6 @@
         "costume": ""
     },
     {
-        "fullName": "Manekina",
-        "name": "MannequinGirl",
-        "birthday": "01/01",
-        "costume": ""
-    },
-    {
-        "fullName": "Manekin",
-        "name": "MannequinBoy",
-        "birthday": "01/01",
-        "costume": ""
-    },
-    {
         "fullName": "",
         "name": "Durin",
         "birthday": "03/14",
@@ -656,19 +644,19 @@
     {
         "fullName": "",
         "name": "Columbina",
-        "birthday": "01/01",
+        "birthday": "01/14",
         "costume": ""
     },
     {
         "fullName": "",
         "name": "Zibai",
-        "birthday": "01/01",
+        "birthday": "05/15",
         "costume": ""
     },
     {
         "fullName": "",
         "name": "Illuga",
-        "birthday": "01/01",
+        "birthday": "12/23",
         "costume": ""
     }
 ]
