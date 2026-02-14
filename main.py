@@ -48,8 +48,8 @@ def main(m):
             name = character["name"]
             full_name = character["fullName"]
             costume = character["costume"]
-            image_url = f"https://api.hakush.in/gi/UI/UI_Costume_{costume}.webp" if costume else f"https://api.hakush.in/gi/UI/UI_Gacha_AvatarImg_{name}.webp"
-            avatar_url = f"https://api.hakush.in/gi/UI/UI_AvatarIcon_{costume}.webp" if costume else f"https://api.hakush.in/gi/UI/UI_AvatarIcon_{name}.webp"
+            image_url = f"https://gi.yatta.moe/assets/UI/UI_Costume_{costume}.png" if costume else f"https://gi.yatta.moe/assets/UI/UI_Gacha_AvatarImg_{name}.png"
+            avatar_url = f"https://gi.yatta.moe/assets/UI/UI_AvatarIcon_{costume}.png" if costume else f"https://gi.yatta.moe/assets/UI/UI_AvatarIcon_{name}.png"
 
             print(f"Today: {today}, Checking: {character['birthday']}")
 

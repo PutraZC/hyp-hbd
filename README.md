@@ -3,4 +3,3 @@
 
 ## Credits
 - [Project Amber](https://gi.yatta.moe/)
-- [Hakush.in](https://hakush.in/)
